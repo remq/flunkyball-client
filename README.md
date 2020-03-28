@@ -1,2 +1,3 @@
-# flunkyball-client
-Client for flunkyball.
+# Flunkyball client
+
+Client for flunkynall.
