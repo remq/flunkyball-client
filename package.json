@@ -8,10 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@types/styled-components": "^5.0.1",
+    "axios": "^0.19.2",
     "next": "9.3.2",
+    "next-images": "^1.4.0",
+    "polished": "^3.5.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.3.0",
+    "styled-components": "^5.0.1"
   },
   "devDependencies": {
     "@types/node": "^13.9.5",
@@ -19,6 +24,7 @@
     "@types/react-dom": "^16.9.5",
     "@types/socket.io": "^2.1.4",
     "@types/socket.io-client": "^1.4.32",
+    "babel-plugin-styled-components": "^1.10.7",
     "typescript": "^3.8.3"
   }
 }
